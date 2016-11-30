@@ -1,0 +1,5 @@
+*.pyc
+.python-version
+app/conf.py
+node_modules/
+npm-debug.log
